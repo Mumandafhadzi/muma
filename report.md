@@ -1,0 +1,1 @@
+For this lab, I created a new GitHub repository, added the necessary files (index.html,student-info.txt,report.md), and linked them to GitHub. After pushing the files, I made commits to document my progress. Finally, I deployed the index.html file to GitHub Pages, making the project live online. This helped me practice using Git for version control and GitHub Pages for deploy.
